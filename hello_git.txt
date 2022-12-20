@@ -1,2 +1,4 @@
-hello codestates!!
+hello codestates
+git is good.
+
 
